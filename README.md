@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi 👋 I'm Wang Anliang
+## About Me
+- 🎓 Currently a **junior student** at Guangdong University of Technology, majoring in Computer Science and Technology.
+- 💻 Now focusing on learning **C++** to strengthen my programming foundation, data structures and basic algorithms.
+- 📚 I enjoy exploring technical knowledge and keep practicing coding to build practical experience.
+- 🎯 My long‑term goal is to master professional knowledge and gradually explore backend and low‑level development.
 
-<!--
-**Wh1teFe/Wh1teFe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack
+- Learning: **C++**
+- Basic knowledge: C language, core computer courses
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals
+Keep coding every day, work on more practical projects and make steady progress ✨
