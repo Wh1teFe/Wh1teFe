@@ -14,3 +14,9 @@ The program uses the SimHash algorithm to calculate the similarity between two t
 - unit_test.cpp: unit test code
 
 ### How to Run
+
+main.exe orig.txt copy.txt ans.txt
+
+The result will be saved into ans.txt.
+
+GitHub Repository: https://github.com/Wh1teFe/Wh1teFe
